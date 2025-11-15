@@ -1,0 +1,14 @@
+name: ipcam_watch_widget
+description: Widget mock de cámara IP para Wear OS.
+version: 0.0.1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+flutter:
+  assets:
+    - assets/ipcam.jpeg
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
